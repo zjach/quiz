@@ -49,6 +49,8 @@ class ViewController: UIViewController {
 
         }
         
+        // Changes
+        
         if questionNumber + 1 < quiz.count {
             questionNumber += 1
         } else {
