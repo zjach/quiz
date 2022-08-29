@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C369F6E628BD685200828499 /* CheckRepo.swift in Sources */ = {isa = PBXBuildFile; fileRef = C369F6E528BD685200828499 /* CheckRepo.swift */; };
 		C39DAA6428BBB32400C030F2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C39DAA6328BBB32400C030F2 /* AppDelegate.swift */; };
 		C39DAA6628BBB32400C030F2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C39DAA6528BBB32400C030F2 /* SceneDelegate.swift */; };
 		C39DAA6828BBB32400C030F2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C39DAA6728BBB32400C030F2 /* ViewController.swift */; };
@@ -18,7 +17,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		C369F6E528BD685200828499 /* CheckRepo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckRepo.swift; sourceTree = "<group>"; };
 		C39DAA6028BBB32400C030F2 /* quiz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = quiz.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C39DAA6328BBB32400C030F2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C39DAA6528BBB32400C030F2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -68,7 +66,6 @@
 				C39DAA6C28BBB32500C030F2 /* Assets.xcassets */,
 				C39DAA6E28BBB32500C030F2 /* LaunchScreen.storyboard */,
 				C39DAA7128BBB32500C030F2 /* Info.plist */,
-				C369F6E528BD685200828499 /* CheckRepo.swift */,
 			);
 			path = quiz;
 			sourceTree = "<group>";
@@ -145,7 +142,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				C39DAA6828BBB32400C030F2 /* ViewController.swift in Sources */,
-				C369F6E628BD685200828499 /* CheckRepo.swift in Sources */,
 				C39DAA7828BBB3E700C030F2 /* Question.swift in Sources */,
 				C39DAA6428BBB32400C030F2 /* AppDelegate.swift in Sources */,
 				C39DAA6628BBB32400C030F2 /* SceneDelegate.swift in Sources */,
